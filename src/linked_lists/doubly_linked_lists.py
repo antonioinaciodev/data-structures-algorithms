@@ -11,7 +11,6 @@ class DoublyLinkedList:
         self.size = 0
 
     def insert_sorted(self, data):
-        # Tratamento para strings que você tinha implementado antes
         if isinstance(data, str):
             data = data.upper()
             
