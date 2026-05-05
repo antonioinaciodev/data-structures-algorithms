@@ -26,7 +26,7 @@ Siga os passos abaixo para baixar e testar as implementações localmente em sua
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/antonioinaciodev/data-structures-algorithms.git](https://github.com/antonioinaciodev/data-structures-algorithms.git)
+    git clone https://github.com/antonioinaciodev/data-structures-algorithms.git
     cd data-structures-algorithms
     ```
 2.  **Execute um módulo específico** (exemplo):
